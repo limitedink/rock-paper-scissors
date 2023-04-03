@@ -9,7 +9,9 @@ The game is played over five rounds between the player and the computer. The pla
 Rock beats Scissors
 Scissors beat Paper
 Paper beats Rock
+
 At the end of the five rounds, the winner is declared based on the number of rounds won by each player.
+The score & match result is displayed in the browser console.
 
 ## Installation and Usage
 
