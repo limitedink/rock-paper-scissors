@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-This is a simple command line implementation of the classic Rock Paper Scissors game using JavaScript.
+Rock Paper Scissors game created with HTML, CSS and JS.
 
 ## How to Play
 
