@@ -17,10 +17,6 @@ The score & match result is displayed in the browser console.
 
 To run the game, simply open the index.html file in your web browser.
 
-Alternatively, you can run the game from the command line by navigating to the project directory and entering the following command:
-
-node script.js
-
 ## Credits
 
 This game was created by limitedink.
