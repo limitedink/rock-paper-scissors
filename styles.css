@@ -3,4 +3,32 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  animation: rainbow 1.6s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-color: red;
+  }
+  14% {
+    background-color: orange;
+  }
+  28% {
+    background-color: yellow;
+  }
+  42% {
+    background-color: green;
+  }
+  56% {
+    background-color: blue;
+  }
+  70% {
+    background-color: indigo;
+  }
+  85% {
+    background-color: purple;
+  }
+  100% {
+    background-color: red;
+  }
 }
