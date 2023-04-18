@@ -36,3 +36,9 @@ body {
 #result {
   font-size: larger;
 }
+
+button {
+  width: 120px;
+  height: 60px;
+  font-size: 1.2em;
+}
