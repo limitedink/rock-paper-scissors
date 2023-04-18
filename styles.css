@@ -32,3 +32,7 @@ body {
     background-color: red;
   }
 }
+
+#result {
+  font-size: larger;
+}
