@@ -17,6 +17,11 @@ The score & match result is displayed in the browser console.
 
 To run the game, simply open the index.html file in your web browser.
 
+or
+
+[Live Demo](https://limitedink.github.io/rock-paper-scissors/) :point_left:
+
+
 ## Credits
 
 This game was created by limitedink.
